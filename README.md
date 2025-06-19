@@ -17,6 +17,9 @@ A **Synchronous RAM (SRAM) module** with **read and write operations** is a type
 
 ---
 
+![image](https://github.com/user-attachments/assets/e9700f3f-1f21-49a2-8030-5f83921f1e55)
+
+
 ### Key Features:
 
 1. **Synchronous Operation**: Controlled by a clock signal, ensuring that all operations occur in a coordinated manner.
